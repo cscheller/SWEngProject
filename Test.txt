@@ -1,0 +1,6 @@
+This is a test document. Use this to test out commit, push, pull, add, etc.
+Then check the repository to make sure it worked.
+
+URL for the repository:
+
+	https://github.com/cscheller/SWEngProject
