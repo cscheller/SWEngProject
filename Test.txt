@@ -3,4 +3,4 @@ Then check the repository to make sure it worked.
 
 URL for the repository:
 
-	https://github.com/cscheller/SWEngProject
+	https://github.com/cscheller/SWEngProject.git
