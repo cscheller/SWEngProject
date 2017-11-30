@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/20172642/convert-from-wchar-t-to-int
+https://msdn.microsoft.com/en-us/library/windows/desktop/hh298354(v=vs.85).aspx
+
+https://msdn.microsoft.com/en-us/library/bb384843.aspx
+http://www.cplusplus.com/forum/beginner/3329/
